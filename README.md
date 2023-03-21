@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 ![Screenshot (26)](https://user-images.githubusercontent.com/96400968/226502091-db560677-2fd7-4cfc-9334-7ca486b12c90.png)
 >>>>>>> 72e33d0f3367dc442c02ce0463f2da766fa8f1ae
 
