@@ -2,4 +2,12 @@
 
 # Pomodoro App
 
-Pomodoro app created with React, TailwindCSS, CSS3, and DaisyUI
+Pomodoro application created with React, TailwindCSS, and DaisyUI to help users manage their time effectively.
+The app includes a timer that can be set to any desired length, as well as an alarm to alert the user when the time is up.
+
+## Built With
+- https://daisyui.com/
+- https://tailwindcss.com/
+- https://react-icons.github.io/react-icons
+- https://pixabay.com/
+- https://react.dev/
