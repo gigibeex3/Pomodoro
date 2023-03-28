@@ -1,4 +1,4 @@
-[![Alt text](https://ibb.co/D5VqDSY)](https://pomodoroapptimer.netlify.app/)
+[![Alt text](https://i.ibb.co/6gndRf8/pomodoro.png)](https://pomodoroapptimer.netlify.app/)
 ![Screenshot (26)](https://user-images.githubusercontent.com/96400968/226502091-db560677-2fd7-4cfc-9334-7ca486b12c90.png)
 
 # Pomodoro App
